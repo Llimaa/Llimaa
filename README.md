@@ -1,6 +1,12 @@
 ### Fala galera!, Eu sou [Marcos Lima!](https://marcoslima.gear.host/) 👋
 
+
 * Sou desenvolvedor há 2 anos. 
+* Tenho 21 anos. 
+* Sou Bacharel em Sistemas de Informação.
+* Apaixonado por tecnologia.
+* Um pouco dos meus projetos: [LimaDev](https://marcoslima.gear.host/)
+----
 
 **Linguagens e Ferramentas:**  
 
@@ -10,8 +16,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+----
 
-<div align="center">
+<div align="start">
 
 <i>Se quiser falar comigo ou saber mais => Você me encontra nas redes sociais:</i><br>
 
