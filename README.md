@@ -29,11 +29,10 @@ Sou desenvolvedor de software, **21 anos**.
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=94991285912" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="devshow">
+	<img src="https://img.shields.io/badge/whatsapp-black?&style=flat-square&logo=whatsapp&logoColor=white" alt="devshow">
 </a>
 
 </div>
-<br/>
 
 ----
 
