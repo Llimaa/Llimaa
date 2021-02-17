@@ -1,6 +1,6 @@
-###Fala galera!, Eu sou Marcos Lima! 👋
+### Fala galera!, Eu sou [Marcos Lima!](https://marcoslima.gear.host/) 👋
 
-Sou desenvolvedor de software, **21 anos**. 
+* Sou desenvolvedor há 2 anos. 
 
 **Linguagens e Ferramentas:**  
 
