@@ -1,8 +1,8 @@
 ### Fala galera!, Eu sou [Marcos Lima!](https://marcoslima.gear.host/) 👋
 
 
-* Sou desenvolvedor há 2 anos. 
-* Tenho 22 anos. 
+* Sou desenvolvedor há mais de 4 anos. 
+* Tenho 23 anos. 
 * Sou Bacharel em Sistemas de Informação.
 * Apaixonado por tecnologia.
 * Um pouco dos meus projetos: [LimaDev](https://marcoslima.gear.host/)
