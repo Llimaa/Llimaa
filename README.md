@@ -5,7 +5,7 @@
 * Tenho 23 anos. 
 * Sou Bacharel em Sistemas de Informação.
 * Apaixonado por tecnologia.
-* LimaDev: [LimaDev](https://limadeev.com.br/)
+* [LimaDev](http://limadeev.com.br)
 ----
 
 **Linguagens e Ferramentas:**  
