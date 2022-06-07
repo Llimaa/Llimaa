@@ -5,7 +5,7 @@
 * Tenho 23 anos. 
 * Sou Bacharel em Sistemas de Informação.
 * Apaixonado por tecnologia.
-* Um pouco dos meus projetos: [LimaDev](https://marcoslima.gear.host/)
+* LimaDev: [LimaDev](https://limadeev.com.br/)
 ----
 
 **Linguagens e Ferramentas:**  
