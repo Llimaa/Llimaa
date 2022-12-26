@@ -1,14 +1,13 @@
-### Fala galera!, Eu sou [Marcos Lima!](https://marcoslima.gear.host/) 👋
+### Hey guys, I´m [Marcos Lima!](https://marcoslima.gear.host/) 👋
 
 
-* Sou desenvolvedor há mais de 4 anos. 
-* Tenho 23 anos. 
-* Sou Bacharel em Sistemas de Informação.
-* Apaixonado por tecnologia.
+* I've been a software developer for over five years.
+* I´m 24. 
+* I´m Bachelor in Information Systems.
 * [LimaDev](http://limadeev.com.br)
 ----
 
-**Linguagens e Ferramentas:**  
+**Linguages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -20,7 +19,7 @@
 
 <div align="start">
 
-<i>Se quiser falar comigo ou saber mais => Você me encontra nas redes sociais:</i><br>
+<i>If you want to talk to me or find out more => You can find me on social media:</i><br>
 
 <a href="https://www.linkedin.com/in/marcos-lima-de-fatima/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -43,6 +42,6 @@
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Estatísticas no Github 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Stats on Github 
    
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Llimaa&show_icons=true)
