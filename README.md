@@ -4,7 +4,7 @@
 * I've been a software developer for over five years.
 * I´m 24. 
 * I´m Bachelor in Information Systems.
-* [LimaDev](http://limadeev.com.br)
+* [LimaDev](http://limadev.online)
 ----
 
 **Linguages and Tools:**  
