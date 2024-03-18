@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/s2lima" target="_blank">
 	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://medium.com/@marcoslimadefatima" target="_blank">
+<a href="https://medium.com/@marcoslimadev" target="_blank">
 	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
 </a>
 <a href="https://api.whatsapp.com/send?phone=94991285912" target="_blank">
