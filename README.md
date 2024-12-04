@@ -2,10 +2,10 @@
 
 
 * I've been a software developer for over six years.
-* I´m 25. 
+* I´m 26. 
 * I´m Bachelor in Information Systems.
 * Technical Writer and Speaker
-* [LimaDev](http://limadev.online)
+* [Curso Minimal API](https://marcoslimadev.com.br/minimal-api)
 ----
 
 <div>
