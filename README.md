@@ -1,8 +1,8 @@
 ### Hey guys, I´m [Marcos Lima!](https://marcoslima.gear.host/) 👋
 
 
-* I've been a software developer for over six years.
-* I´m 26. 
+* I've been a software developer for over eight years.
+* I´m 27. 
 * I´m Bachelor in Information Systems.
 * Technical Writer and Speaker
 * [Curso Minimal API](https://marcoslimadev.com.br/minimal-api)
